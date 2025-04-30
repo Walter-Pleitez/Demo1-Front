@@ -133,7 +133,7 @@ img {
 }
 
 .hero {
-    background-image: url(../img/principal.jpg);
+    background-image: url(../img/aeromosa1.avif);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -193,7 +193,7 @@ img {
 /*SOBRE NOSOTROS*/
 .sobre-nosotros {
     background-image: linear-gradient(to bottom, transparent 50%, #037bc0 50%,
-            #037bc0 100%), url(../img/nosotros.jpg);
+            #037bc0 100%), url(../img/aeropuerto1.avif);
     /*negro de 0-50% rojo de 51-100%*/
     background-position: center, top left;
     background-repeat: no-repeat;
@@ -203,7 +203,7 @@ img {
 @media (min-width: 768px) {
     .sobre-nosotros {
         background-image: linear-gradient(to right, transparent 50%, #037bc0 50%,
-                #037bc0 100%), url(../img/nosotros.jpg);
+                #037bc0 100%), url(../img/aeropuerto1.avif);
         /*negro de 0-50% rojo de 51-100%*/
         background-position: left center;
         padding: 10rem 0;
